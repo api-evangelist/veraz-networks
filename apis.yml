@@ -24,12 +24,12 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/veraz-networks.png
 name: Veraz Networks
 description: Veraz Networks was a San Jose, California telecommunications infrastructure company (founded
-  2001) that supplied VoIP softswitches, media gateways (the I-Gate 4000 family), session bandwidth
-  optimizers, and the IP Multimedia Subsystem based ControlSwitch product family to wireline, broadband,
-  and wireless service providers in over 50 countries. Veraz merged with Dialogic in 2010; the company no
-  longer exists as an independent entity and veraznetworks.com now redirects to dialogic.com. It ships no
-  independent public developer API, documentation, SDK, or well-known surface of its own to enrich.
-x-status: defunct-merged-into-dialogic-2010
+  2001) that supplied VoIP softswitches, media gateways (the I-Gate 4000 family), session bandwidth optimizers,
+  and the IP Multimedia Subsystem based ControlSwitch product family to wireline, broadband, and wireless
+  service providers in over 50 countries. Veraz merged with Dialogic in 2010; the company no longer exists
+  as an independent entity and veraznetworks.com now redirects to dialogic.com. It ships no independent
+  public developer API, documentation, SDK, or well-known surface of its own to enrich.
+x-status: defunct
 x-website-redirect: https://www.dialogic.com/
 url: https://raw.githubusercontent.com/api-evangelist/veraz-networks/refs/heads/main/apis.yml
 x-type: company
@@ -40,7 +40,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-21'
+modified: '2026-09-15'
 tags:
 - Company
 - Telecommunications
